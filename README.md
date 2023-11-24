@@ -5,7 +5,7 @@ Excited to encounter you
     <a [![GitHub Streak](https://streak-stats.demolab.com/?user=smaEti)](https://git.io/streak-stats)
 <!-- Social media section -->
 <p align='center'>
-  <a href='mailto:' title='Gmail'>
+  <a href='mailto:A.Ehterami@proton.me' title='Gmail'>
     <img width='32' height='32' src='https://img.icons8.com/glyph-neue/64/41b883/gmail.png' alt='gmail'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -62,17 +62,4 @@ Excited to encounter you
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=smaEti&theme=vue-dark&langs_count=8&layout=compact&hide_border=true&border_radius=10' />
 </p>
 
-## <img width='22' height='22' src='https://img.icons8.com/dotty/80/41b883/project-management.png' alt='project-management'/> Projects
-
-### Machine Learning and Artificial Intelligence
-<p align='center'>
-    <a href='https://github.com/smaEti/Decision-tree-from-scratch'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=smaEti&repo=Decision-tree-from-scratch&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-    <a href='https://github.com/smaEti/MLP_basic'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=smaEti&repo=MLP_basic&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
-    </a>
-</p>  
-
-### Algorithms, Data Structures
 
