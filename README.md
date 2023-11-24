@@ -5,22 +5,22 @@ Excited to encounter you
     <a [![GitHub Streak](https://streak-stats.demolab.com/?user=smaEti)](https://git.io/streak-stats)
 <!-- Social media section -->
 <p align='center'>
-  <a href='mailto:smaEti.g@gmail.com' title='Gmail'>
+  <a href='mailto:' title='Gmail'>
     <img width='32' height='32' src='https://img.icons8.com/glyph-neue/64/41b883/gmail.png' alt='gmail'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
-  <a href='https://www.linkedin.com/in/reza-goodarzi-3141aa271/' title='LinkedIn'>
+  <a href='https://www.linkedin.com/in/amin-ehterami-0aa86724b/' title='LinkedIn'>
     <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/41b883/linkedin.png' alt='linkedin'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
-  <a href='https://www.instagram.com/__rezagc/' title='Instagram'>
+  <a href='https://www.instagram.com/amin_ehterami' title='Instagram'>
     <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/41b883/instagram-new--v1.png' alt='instagram'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
-  <a href='https://t.me/R04505A041'>
+  <a href='https://t.me/Amin_Ehterami'>
     <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/41b883/telegram.png' alt='telegram'/>
   </a>
 </p>
