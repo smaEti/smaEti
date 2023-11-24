@@ -2,10 +2,10 @@
 Excited to encounter you 
 
   <p align='center'>
-    <a [![GitHub Streak](https://streak-stats.demolab.com/?user=rezagoodarzi)](https://git.io/streak-stats)
+    <a [![GitHub Streak](https://streak-stats.demolab.com/?user=smaEti)](https://git.io/streak-stats)
 <!-- Social media section -->
 <p align='center'>
-  <a href='mailto:rezagoodarzi.g@gmail.com' title='Gmail'>
+  <a href='mailto:smaEti.g@gmail.com' title='Gmail'>
     <img width='32' height='32' src='https://img.icons8.com/glyph-neue/64/41b883/gmail.png' alt='gmail'/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -55,22 +55,22 @@ Excited to encounter you
 
 ## <img width='22' height='22' src='https://img.icons8.com/external-prettycons-solid-prettycons/60/41b883/external-graph-business-and-finance-prettycons-solid-prettycons-2.png' alt='external-graph-business-and-finance-prettycons-solid-prettycons-2'/> Stats
 <p align=center>
-    <img width='400' height='150' src='https://streak-stats.demolab.com/?user=rezagoodarzi&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10'/>
-    <img width='400' height='150' src='https://github-readme-stats.vercel.app/api?username=rezagoodarzi&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10'/>
+    <img width='400' height='150' src='https://streak-stats.demolab.com/?user=smaEti&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10'/>
+    <img width='400' height='150' src='https://github-readme-stats.vercel.app/api?username=smaEti&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10'/>
 </p>
 <p align=center>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rezagoodarzi&theme=vue-dark&langs_count=8&layout=compact&hide_border=true&border_radius=10' />
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=smaEti&theme=vue-dark&langs_count=8&layout=compact&hide_border=true&border_radius=10' />
 </p>
 
 ## <img width='22' height='22' src='https://img.icons8.com/dotty/80/41b883/project-management.png' alt='project-management'/> Projects
 
 ### Machine Learning and Artificial Intelligence
 <p align='center'>
-    <a href='https://github.com/rezagoodarzi/Decision-tree-from-scratch'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=Decision-tree-from-scratch&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    <a href='https://github.com/smaEti/Decision-tree-from-scratch'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=smaEti&repo=Decision-tree-from-scratch&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
-    <a href='https://github.com/rezagoodarzi/MLP_basic'>
-        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rezagoodarzi&repo=MLP_basic&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
+    <a href='https://github.com/smaEti/MLP_basic'>
+        <img width='278' src='https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=smaEti&repo=MLP_basic&theme=vue-dark&hide_border=true&border_radius=10&hide_border=true'>
     </a>
 </p>  
 
