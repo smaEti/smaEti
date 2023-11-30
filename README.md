@@ -37,10 +37,10 @@ Excited to encounter you
 <p align='center'>
     <code><img title='PyTorch' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'></code>
     <code><img title='Tensorflow' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
-    <code><img title='kaggle' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'></code>
-    <code><img title='scikit-learn' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'></code>
-    <code><img title='OpenCV' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'></code>
-    <code><img title='Matplotlib' width='24px' height='24px' src='https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg'></code>
+    <code><img title='kaggle' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'></code>
+    <code><img title='scikit-learn' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></code>
+    <code><img title='OpenCV' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'></code>
+    <code><img title='Matplotlib' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/electron.svg'></code>
     <code><img title='NumPy' width='24px' height='24px' src='https://img.icons8.com/color/48/numpy.png'/></code>
     <code><img title='Google Colab' width='24px' height='24px' src='https://img.icons8.com/color/48/google-colab.png'/></code>
 </p>
