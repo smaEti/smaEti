@@ -32,7 +32,7 @@
 
 <h3 align='center'>
 Excited to encounter you 
-
+<hr/>
   <p align='center'>
     <a [![GitHub Streak](https://streak-stats.demolab.com/?user=smaEti)](https://git.io/streak-stats)
 <!-- Social media section -->
