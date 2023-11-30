@@ -28,16 +28,15 @@ Excited to encounter you
 
 ## <img width='20' height='20' src='https://img.icons8.com/pastel-glyph/64/41b883/code--v1.png' alt='code--v1'/> My Skills
 <p align='center'>
-    <code><img title='Python' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'></code>
-    <code><img title='Java' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></code>
+    <code><img title='Python' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
+    <code><img title='Java' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></code>
     <code><img title='C' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
     <code><img title='C++' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'></code>
 </p>
 
 <p align='center'>
-    <code><img title='Keras' wwidth='24px' height='24px' src='https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg'></code>
-    <code><img title='PyTorch' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'></code>
-    <code><img title='Tensorflow' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'></code>
+    <code><img title='PyTorch' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'></code>
+    <code><img title='Tensorflow' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
     <code><img title='kaggle' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kaggle.svg'></code>
     <code><img title='scikit-learn' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'></code>
     <code><img title='OpenCV' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg'></code>
@@ -50,7 +49,6 @@ Excited to encounter you
     <code><img title='Git' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></code>
     <code><img title='GitHub' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></code>
     <code><img title='Linux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></code>
-    <code><img title='Visual Studio' width='24' height='24' src='https://img.icons8.com/color/48/visual-studio--v2.png' alt='visual-studio--v2'/></code>
 </p>
 
 ## <img width='22' height='22' src='https://img.icons8.com/external-prettycons-solid-prettycons/60/41b883/external-graph-business-and-finance-prettycons-solid-prettycons-2.png' alt='external-graph-business-and-finance-prettycons-solid-prettycons-2'/> Stats
