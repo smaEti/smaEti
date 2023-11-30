@@ -1,3 +1,35 @@
+## <img width='22' height='22' src='https://img.icons8.com/external-prettycons-solid-prettycons/60/41b883/external-graph-business-and-finance-prettycons-solid-prettycons-2.png' alt='external-graph-business-and-finance-prettycons-solid-prettycons-2'/> Stats
+<p align=center>
+    <img width='400' height='150' src='https://streak-stats.demolab.com/?user=smaEti&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10'/>
+    <img width='400' height='150' src='https://github-readme-stats.vercel.app/api?username=smaEti&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10'/>
+</p>
+<p align=center>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=smaEti&theme=vue-dark&langs_count=8&layout=compact&hide_border=true&border_radius=10' />
+</p>
+
+## <img width='20' height='20' src='https://img.icons8.com/pastel-glyph/64/41b883/code--v1.png' alt='code--v1'/> My Skills
+<p align='center'>
+    <code><img title='Python' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
+    <code><img title='Java' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></code>
+    <code><img title='C' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
+    <code><img title='C++' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'></code>
+</p>
+
+<p align='center'>
+    <code><img title='PyTorch' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'></code>
+    <code><img title='Tensorflow' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
+    <code><img title='kaggle' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'></code>
+    <code><img title='scikit-learn' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></code>
+    <code><img title='OpenCV' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'></code>
+    <code><img title='Matplotlib' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/electron.svg'></code>
+</p>
+
+<p align='center'>
+    <code><img title='Git' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></code>
+    <code><img title='GitHub' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></code>
+    <code><img title='Linux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></code>
+</p>
+
 <h3 align='center'>
 Excited to encounter you 
 
@@ -26,36 +58,5 @@ Excited to encounter you
 </p>
 
 
-## <img width='20' height='20' src='https://img.icons8.com/pastel-glyph/64/41b883/code--v1.png' alt='code--v1'/> My Skills
-<p align='center'>
-    <code><img title='Python' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
-    <code><img title='Java' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></code>
-    <code><img title='C' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
-    <code><img title='C++' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'></code>
-</p>
-
-<p align='center'>
-    <code><img title='PyTorch' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'></code>
-    <code><img title='Tensorflow' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
-    <code><img title='kaggle' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'></code>
-    <code><img title='scikit-learn' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></code>
-    <code><img title='OpenCV' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'></code>
-    <code><img title='Matplotlib' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/electron.svg'></code>
-</p>
-
-<p align='center'>
-    <code><img title='Git' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></code>
-    <code><img title='GitHub' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></code>
-    <code><img title='Linux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></code>
-</p>
-
-## <img width='22' height='22' src='https://img.icons8.com/external-prettycons-solid-prettycons/60/41b883/external-graph-business-and-finance-prettycons-solid-prettycons-2.png' alt='external-graph-business-and-finance-prettycons-solid-prettycons-2'/> Stats
-<p align=center>
-    <img width='400' height='150' src='https://streak-stats.demolab.com/?user=smaEti&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10'/>
-    <img width='400' height='150' src='https://github-readme-stats.vercel.app/api?username=smaEti&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10'/>
-</p>
-<p align=center>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=smaEti&theme=vue-dark&langs_count=8&layout=compact&hide_border=true&border_radius=10' />
-</p>
 
 
