@@ -9,19 +9,20 @@
 
 ## <img width='20' height='20' src='https://img.icons8.com/pastel-glyph/64/41b883/code--v1.png' alt='code--v1'/> My Skills
 <p align='center'>
-    <code><img title='Python' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
-    <code><img title='Java' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></code>
+    <code><img title='javascript' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></code>
+    <code><img title='nodejs' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'></code>
     <code><img title='C' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'></code>
     <code><img title='C++' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'></code>
 </p>
 
 <p align='center'>
-    <code><img title='PyTorch' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'></code>
-    <code><img title='Tensorflow' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
-    <code><img title='kaggle' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'></code>
-    <code><img title='scikit-learn' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></code>
-    <code><img title='OpenCV' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'></code>
-    <code><img title='Matplotlib' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/electron.svg'></code>
+    <code><img title='nextjs' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg'></code>
+    <code><img title='reactjs' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'></code>
+    <code><img title='php' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'></code>
+    <code><img title='mysql' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'></code>
+    <code><img title='postgresql' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'></code>
+    <code><img title='electronjs' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/electron.svg'></code>
+    <code><img title='expressjs' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg'></code>
 </p>
 
 <p align='center'>
