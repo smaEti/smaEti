@@ -44,11 +44,6 @@ Excited to encounter you
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   
-  <a href='https://www.instagram.com/amin_ehterami' title='Instagram'>
-    <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/41b883/instagram-new--v1.png' alt='instagram'/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  
   <a href='https://t.me/Amin_Ehterami'>
     <img width='32' height='32' src='https://img.icons8.com/ios-filled/50/41b883/telegram.png' alt='telegram'/>
   </a>
