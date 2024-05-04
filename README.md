@@ -24,7 +24,7 @@
 <!-- <p align='center'> -->
     <code><img title='Git' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></code>
     <code><img title='GitHub' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></code>
-    <code><img title='Linux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></code>
+<!--     <code><img title='Linux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></code> -->
 </p>
 
 <h3 align='center'>
