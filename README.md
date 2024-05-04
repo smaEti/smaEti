@@ -3,9 +3,9 @@
     <img width='400' height='150' src='https://streak-stats.demolab.com/?user=smaEti&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10'/>
     <img width='400' height='150' src='https://github-readme-stats.vercel.app/api?username=smaEti&theme=vue-dark&hide_border=true&show_icons=true&border_radius=10'/>
 </p>
-<p align=center>
+<!-- <p align=center>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=smaEti&theme=vue-dark&langs_count=8&layout=compact&hide_border=true&border_radius=10' />
-</p>
+</p> -->
 
 ## <img width='20' height='20' src='https://img.icons8.com/pastel-glyph/64/41b883/code--v1.png' alt='code--v1'/> My Skills
 <p align='center'>
@@ -24,7 +24,7 @@
 <!-- <p align='center'> -->
     <code><img title='Git' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'></code>
     <code><img title='GitHub' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></code>
-<!--     <code><img title='Linux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></code> -->
+    <code><img title='Linux' width='24px' height='24px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'></code>
 </p>
 
 <h3 align='center'>
